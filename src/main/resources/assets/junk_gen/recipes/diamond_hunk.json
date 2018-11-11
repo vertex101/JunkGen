@@ -1,0 +1,17 @@
+{
+	"type" : "forge:ore_shaped",
+	"result" : {
+		"item" : "junk_gen:diamond_hunk",
+		"count" : 9,
+		"data": 0
+	},
+	"pattern": [
+		"S"
+	],
+	"key": {
+		"S": {
+			"item": "minecraft:diamond",
+			"data": 0
+		}
+	}
+}

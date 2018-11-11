@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "modid": "junk_gen",
+  "name": "Junk Gen",
+  "description": "A mod that is made for very early game power.",
+  "version": "0.0.1",
+  "mcversion": "1.12.2",
+  "url": "https://discord.gg/YmBhHgX",
+  "updateUrl": "https://vertex101.tv/update/junkgen.json",
+  "authorList": ["Vertex101"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

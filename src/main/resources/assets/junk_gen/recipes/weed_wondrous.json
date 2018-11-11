@@ -1,0 +1,22 @@
+{
+	"type" : "forge:ore_shaped",
+	"result" : {
+		"item" : "junk_gen:weed_wondrous",
+		"data": 0
+	},
+	"pattern": [
+		"SSS",
+		"SES",
+		"SSS"
+	],
+	"key": {
+		"S": {
+			"item": "junk_gen:weed_refined",
+			"data": 0
+		},
+		"E": {
+			"item": "junk_gen:diamond_hunk",
+			"data": 0
+		}
+	}
+}

@@ -5,7 +5,7 @@ import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import tv.vertex101.junkgen.proxy.Proxy;
 
-@Mod(modid = JunkGen.MOD_ID, name = JunkGen.MOD_NAME)
+@Mod(modid = JunkGen.MOD_ID, name = JunkGen.MOD_NAME, updateJSON = "https://vertex101.tv/update/junkgen.json")
 public class JunkGen {
 
 	public static final String MOD_ID = "junk_gen";
