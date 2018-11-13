@@ -4,3 +4,5 @@ item.junk_gen:weed_wondrous.name=Wondrous Weed Clump
 item.junk_gen:diamond_hunk.name=Diamond Hunk
 
 itemGroup.JunkGenTab=Junk Gen
+
+tile.junk_gen:block_generator.name=Junk Generator

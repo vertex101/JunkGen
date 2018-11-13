@@ -16,7 +16,7 @@ public class ModItems {
 	public static Item weed_wondrous;
 	public static Item diamond_hunk;
 
-	static final CreativeTabs JunkGenTab = (new CreativeTabs("JunkGenTab") {
+	public static final CreativeTabs JunkGenTab = (new CreativeTabs("JunkGenTab") {
 
 		@Override
 		public ItemStack getTabIconItem() {
