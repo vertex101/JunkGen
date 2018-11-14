@@ -1,0 +1,10 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "junk_gen:block_generator"
+    },
+    "variants": {
+        "normal": [{}],
+        "inventory": [{}]
+    }
+}
